@@ -1,0 +1,26 @@
+button {
+  margin: 10px;
+  padding: 10px;
+  background-color: aliceblue;
+  color: black;
+  border-radius: 10px;
+  font-size: x-large;
+}
+button:hover {
+  background-color: rgb(197, 200, 202);
+}
+.card {
+  display: flex;
+  justify-content: center;
+  background-color: aliceblue;
+  color: black;
+  font-size: x-large;
+  width: 25rem;
+}
+.image {
+  width: 24rem;
+}
+.main {
+  justify-items: center;
+  display: grid;
+}
