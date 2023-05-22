@@ -1,25 +1,27 @@
 button {
   margin: 10px;
   padding: 10px;
-  background-color: aliceblue;
+  background-color: rgb(168, 212, 250);
   color: black;
   border-radius: 10px;
   font-size: x-large;
 }
 button:hover {
-  background-color: rgb(197, 200, 202);
+  background-color: rgb(75, 103, 122);
 }
 .card {
   display: flex;
   justify-content: center;
-  background-color: aliceblue;
+  background-color: rgb(99, 145, 185);
   color: black;
   font-size: x-large;
   width: 25rem;
   margin: 50px;
+  border-radius: 10px;
 }
 .image {
   width: 24rem;
+  padding-top: 5px;
 }
 .main {
   justify-items: center;
