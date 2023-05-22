@@ -16,6 +16,7 @@ button:hover {
   color: black;
   font-size: x-large;
   width: 25rem;
+  margin: 50px;
 }
 .image {
   width: 24rem;
