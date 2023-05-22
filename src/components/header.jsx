@@ -1,7 +1,7 @@
 function Header() {
   return (
     <div>
-      <h1>weather app</h1>
+      <h1 style={{ fontSize: "xxx-large" }}>weather app</h1>
     </div>
   );
 }
