@@ -12,12 +12,18 @@ button:hover {
 .card {
   display: flex;
   justify-content: center;
-  background-color: rgb(99, 145, 185);
+  background: #5c7db2;
+
   color: black;
   font-size: x-large;
   width: 25rem;
   margin: 50px;
   border-radius: 10px;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.3),
+    rgba(0, 0, 0, 0.3)
+  );
 }
 .image {
   width: 24rem;
